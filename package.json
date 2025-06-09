@@ -1,0 +1,11 @@
+{
+	"name": "formit",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "node Backend/server.js",
+		"build": "cd client && npm install && npm run build"
+	},
+	"engines": {
+		"node": "22.x"
+	}
+}

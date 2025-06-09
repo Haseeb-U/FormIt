@@ -6,12 +6,12 @@ export default defineConfig({
 	plugins: [react()],
 	server: {
 		// This is code to set up a proxy for API requests
-		proxy: {
-			'/api': {
-				target: 'http://localhost:5000',
-				changeOrigin: true,
-				secure: false,
-			},
-		},
+		// proxy: {
+		// 	'/api': {
+		// 		target: 'http://localhost:5000',
+		// 		changeOrigin: true,
+		// 		secure: false,
+		// 	},
+		// },
 	}, // This is code to set up a proxy for API requests
 });
