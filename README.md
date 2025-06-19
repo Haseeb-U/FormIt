@@ -121,6 +121,26 @@ FormIt is a comprehensive project designed to simplify and streamline form creat
 
 ---
 
+## Screenshots
+
+### Home Page
+
+![Home Page Screenshot](screenshots/homepage.png)
+
+### Signup Page
+
+![Login Page Screenshot](screenshots/signup.png)
+
+### Login Page
+
+![Login Page Screenshot](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
