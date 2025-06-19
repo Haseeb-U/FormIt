@@ -10,9 +10,10 @@ FormIt is a comprehensive project designed to simplify and streamline form creat
 -   [Tech Stack](#tech-stack)
 -   [Project Structure](#project-structure)
 -   [Prerequisites](#prerequisites)
--   [Installation](#installation)
+-   [Project Setup](#project-setup-on-your-local-device)
 -   [Running the Project](#running-the-project)
 -   [Usage](#usage)
+-   [Screenshots](#screenshots)
 -   [Contributing](#contributing)
 -   [License](#license)
 
