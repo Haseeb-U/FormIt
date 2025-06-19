@@ -21,10 +21,11 @@ FormIt is a comprehensive project designed to simplify and streamline form creat
 ## Features
 
 -   User-friendly form builder interface
--   Customizable form fields and validation
--   Real-time form preview
--   Data storage and export options
--   Responsive design for all devices
+-   Create forms
+-   Edit forms
+-   Share forms with others to submit
+-   Submit forms shared by others
+-   View Responses
 
 ---
 
