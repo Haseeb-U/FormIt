@@ -59,58 +59,65 @@ FormIt is a comprehensive project designed to simplify and streamline form creat
 
 ---
 
-## Installation
+## Project Setup On Your Local Device
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/FormIt.git
+    git clone https://github.com/Haseeb-U/FormIt.git
     cd FormIt
     ```
 
 2. **Install dependencies for backend:**
 
     ```bash
-    cd server
-    npm install
+    npm run install-server
     ```
 
 3. **Install dependencies for frontend:**
+
     ```bash
-    cd ../client
-    npm install
+    cd Backend
+    npm run install-client
     ```
+
+4. **Create .env file:**
+    - Go to backend folder
+    - Create a file named .env wwith follwoin content
+    ```bash
+    MONGO_DB_URL=#YOUR_MONGO_DB_URL_HERE
+    MONGO_DB_NAME=#YOUR_MONGO_DB_NAME_HERE
+    JWT_SECRET=#YOUR_JWT_SECRET_HERE
+    ```
+    - Replace comments with your respective details
 
 ---
 
 ## Running the Project
 
-1. **Start the backend server:**
+1. **Start server:**
 
     ```bash
-    cd server
-    npm start
+    cd Backend
+    npm run dev
     ```
 
-2. **Start the frontend development server:**
-
-    ```bash
-    cd ../client
-    npm start
-    ```
-
-3. **Access the application:**
-    - Open your browser and navigate to `http://localhost:3000`
+2. **Access the application:**
+    - Client server is running at `http://localhost:5173/`
+    - Backend server is running at `http://localhost:5000`
+    - Open your browser and navigate to `http://localhost:5173/`
 
 ---
 
 ## Usage
 
 -   Register or log in to your account.
--   Create a new form using the form builder.
+-   Create a new form.
 -   Add, remove, or customize fields as needed.
--   Save and share your form.
--   View and export collected responses.
+-   Save or update form.
+-   Make your form public to share with others.
+-   Share your form.
+-   View collected responses.
 
 ---
 
