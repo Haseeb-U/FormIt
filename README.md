@@ -1,6 +1,6 @@
 # FormIt
 
-FormIt is a comprehensive project designed to simplify and streamline form creation, management, and data collection for web applications. This README provides an overview of the project, its features, and a step-by-step guide to set up and run FormIt on your local device.
+FormIt is a comprehensive project designed to simplify and streamline form creation, management, and data collection. This README provides an overview of the project, its features, and a step-by-step guide to set up and run FormIt on your local device.
 
 ---
 
