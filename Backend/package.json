@@ -6,7 +6,9 @@
 		"start": "node server",
 		"server": "nodemon server.js",
 		"client": "cd ../client && npm run dev",
-		"dev": "concurrently \"npm run server\" \"npm run client\""
+		"dev": "concurrently \"npm run server\" \"npm run client\"",
+		"install-server": "npm install",
+		"install-client": "cd ../client && npm install && cd .."
 	},
 	"author": "Haseeb",
 	"license": "MIT",
