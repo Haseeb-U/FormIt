@@ -135,9 +135,33 @@ FormIt is a comprehensive project designed to simplify and streamline form creat
 
 ![Login Page Screenshot](screenshots/login.png)
 
-### Dashboard
+### My Forms Page
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![My Forms Page Screenshot](screenshots/myforms.png)
+
+### Create Form Page
+
+![Create Form Page Screenshot](screenshots/createform.png)
+
+### Update Form Page
+
+![Update Form Page Screenshot](screenshots/updateform.png)
+
+### View Responses Page
+
+![View Responses Page Screenshot](screenshots/viewresponses.png)
+
+### Submit Form Page
+
+![Submit Form Page Screenshot](screenshots/submitform.png)
+
+### My Submissions Page
+
+![My Submissions Page Screenshot](screenshots/mysubmissions.png)
+
+### Profile Settings Page
+
+![Profile Settings Page Screenshot](screenshots/profilesettings.png)
 
 ---
 
