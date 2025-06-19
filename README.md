@@ -31,11 +31,10 @@ FormIt is a comprehensive project designed to simplify and streamline form creat
 
 ## Tech Stack
 
--   **Frontend:** React.js (or specify your framework)
--   **Backend:** Node.js, Express.js (or specify your backend)
--   **Database:** MongoDB (or your choice)
--   **Styling:** CSS3, Bootstrap (or your choice)
--   **Others:** (List any other tools/libraries)
+-   **Frontend:** React.js
+-   **Backend:** Node.js, Express.js
+-   **Database:** MongoDB
+-   **Styling:** CSS
 
 ---
 
@@ -44,10 +43,9 @@ FormIt is a comprehensive project designed to simplify and streamline form creat
 ```
 /FormIt
 │
+├── Backend/           # Backend source code
 ├── client/           # Frontend source code
-├── server/           # Backend source code
 ├── README.md         # Project documentation
-├── package.json      # Project metadata and dependencies
 └── ...
 ```
 
@@ -55,9 +53,9 @@ FormIt is a comprehensive project designed to simplify and streamline form creat
 
 ## Prerequisites
 
--   [Node.js](https://nodejs.org/) (v14 or above)
--   [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
--   [MongoDB](https://www.mongodb.com/) (if using MongoDB)
+-   [Node.js](https://nodejs.org/)
+-   [npm](https://www.npmjs.com/)
+-   [Git](https://git-scm.com/downloads)
 
 ---
 
