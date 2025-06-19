@@ -83,7 +83,7 @@ FormIt is a comprehensive project designed to simplify and streamline form creat
 
 4. **Create .env file:**
     - Go to backend folder
-    - Create a file named .env wwith follwoin content
+    - Create a file named .env with following content
     ```bash
     MONGO_DB_URL=#YOUR_MONGO_DB_URL_HERE
     MONGO_DB_NAME=#YOUR_MONGO_DB_NAME_HERE
